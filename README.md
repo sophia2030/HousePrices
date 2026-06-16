@@ -219,4 +219,7 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 Leaderboard Screenshot
 
-建议上传排行榜截图作为项目成果证明
+<img width="2388" height="1546" alt="image" src="https://github.com/user-attachments/assets/ac761731-b6c6-4aef-a8f5-a65cc852e082" />
+
+<img width="2388" height="1546" alt="image" src="https://github.com/user-attachments/assets/dba750f9-5be9-49a1-a29e-ae44eac0b8b1" />
+
